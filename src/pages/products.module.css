@@ -1,0 +1,42 @@
+.container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 20px;
+
+}
+
+.card {
+    width: 220px;
+    height: 370px;
+    margin: 20px;
+    /* padding: 15px; */
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    /* margin: auto; */
+}
+
+
+
+.img_box {
+    width: 200px;
+    height: 150px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    padding-top: 15PX;
+    margin-left: 55px;
+}
+
+.card>h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+    /* margin-left: 20PX; */
+    text-align: center;
+}
+
+.card>p {
+    font-size: 14px;
+    margin-bottom: 10px;
+    text-align: center;
+
+
+}

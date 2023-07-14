@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "demo",
+      "email": "demo@gmail.com",
+      "password": "123",
+      "confirmpassword": "123"
+    },
+    {
+      "name": "demo233",
+      "email": "d@gmail.com",
+      "password": "123",
+      "confpassword": "123",
+      "id": 2
+    },
+    {
+      "name": "ram",
+      "email": "r@gmail.com",
+      "password": "456",
+      "confpassword": "456",
+      "id": 3
+    },
+    {
+      "name": "faiz",
+      "email": "fai@gmail.com",
+      "password": "789",
+      "confpassword": "789",
+      "id": 4
+    },
+    {
+      "name": "demo233",
+      "email": "fai@gmail.com",
+      "password": "789",
+      "confpassword": "789",
+      "id": 5
+    },
+    {
+      "name": "demooo",
+      "email": "fai@gmail.com",
+      "password": "456",
+      "confpassword": "456",
+      "id": 6
+    }
+  ],
+  "product": [
+    {
+      "title": "T-shirts",
+      "image": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8c2hpcnR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+      "category": "men",
+      "brand": "Nike",
+      "price": "1300",
+      "desc": "High",
+      "id": 2
+    },
+    {
+      "title": "Pant",
+      "image": "https://media.istockphoto.com/id/510615049/photo/mens-trousers.jpg?s=612x612&w=0&k=20&c=gdVhFuzt-Kbk4NG8cjaL1afjKoz_Z5Wddv2ssHFg2bM=",
+      "category": "men",
+      "brand": "Nike",
+      "price": "1500",
+      "desc": "High",
+      "id": 3
+    },
+    {
+      "title": "T-shirt",
+      "image": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8c2hpcnR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+      "category": "men",
+      "brand": "Nike",
+      "price": "900",
+      "desc": "Avg",
+      "id": 4
+    },
+    {
+      "title": "t-shoir",
+      "image": "https://www.imagemarket.com/Content/images/home/fundraisers/FundPhone.png",
+      "category": "men",
+      "brand": "Normal",
+      "price": "300",
+      "desc": "low",
+      "id": 5
+    }
+  ]
+}
